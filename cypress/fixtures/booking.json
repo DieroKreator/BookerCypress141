@@ -1,6 +1,6 @@
 {
-    "firstname" : "Jose",
-    "lastname" : "Correia",
+    "firstname" : "John",
+    "lastname" : "Lake",
     "totalprice" : 500,
     "depositpaid" : true,
     "bookingdates" : {
